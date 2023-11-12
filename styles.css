@@ -149,40 +149,40 @@ hr {
 }
 
 /* CARDS BANNER ONE */
-.cards-banner-one {
+.cards-banner-1 {
   width: 100%;
   height: 350px;
   background: url("./fotos/bebidas.jpg") center/cover; /* Ajusta la imagen */
   margin-bottom: 40px;
 }
 
-.cards-banner-one .content {
+.cards-banner-1 .content {
   width: 40%;
   padding: 90px 0 0 30px;
   color: #fff;
 }
 
-.cards-banner-one p,
+.cards-banner-1 p,
 .cards-banner-two p {
   margin: 10px 0 20px 0;
 }
 
 /* CARDS BANNER two */
-.cards-banner-two {
+.cards-banner-2 {
   width: 100%;
   height: 350px;
   background: url("./fotos/catering.jpeg") center/cover; /* Ajusta la imagen */
   margin-bottom: 40px;
 }
 
-.cards-banner-two .content {
+.cards-banner-2 .content {
   width: 40%;
   padding: 90px 0 0 30px;
   color: #fff;
 }
 
-.cards-banner-two p,
-.cards-banner-two p {
+.cards-banner-2 p,
+.cards-banner-2 p {
   margin: 10px 0 20px 0;
 }
 
